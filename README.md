@@ -3,7 +3,9 @@
 ISNA News Search Engine is an information retrieval project implemented on the ISNA news collected in 2021. This project is implemented in 3 different sections:
 
 1: Simple Indexing: Building the Inverted Index Phase
+
 2: Ranking docs based on tf-idf: Vector space and tf-idf ranked-based retrieval Phase
+
 3: Categorizing docs into clusters (subjects)
 
 Simple Indexing
